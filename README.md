@@ -5,7 +5,7 @@
 - Analyse employees of a company.
 
 ### Data Set
-- [HR dataset](https://github.com/brendaakweongo/Customers/blob/main/Excel/Customers.csv).
+- [HR dataset](https://github.com/brendaakweongo/HR-Dashboard/blob/main/HR Analytics Data.csv).
 
 ### Tools
 - Power BI for data visualisation
