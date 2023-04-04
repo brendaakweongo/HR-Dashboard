@@ -10,7 +10,8 @@
 ### Tools
 - Power BI for data visualisation
 
-### Dashboard
+### Dashboard![image](https://user-images.githubusercontent.com/114441414/229825486-232e4d77-2487-44c2-8727-b26bdf08ee3a.png)
 
-<kbd><img width="1425" alt="Screenshot 2022-05-18 at 2 54 25 PM" src="https://user-images.githubusercontent.com/114441414/224027497-8c113a97-0621-496f-a9ba-f79efb13d635.png"></kbd>
+
+<kbd><img width="1425" alt="Screenshot 2022-05-18 at 2 54 25 PM" src="https://user-images.githubusercontent.com/114441414/229825486-232e4d77-2487-44c2-8727-b26bdf08ee3a.png"></kbd>
 
