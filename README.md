@@ -1,4 +1,4 @@
-# HR Dashboard
+# HR Dashboard 👥
 
 
 ### Business Task
